@@ -44,3 +44,9 @@ int_vect <- 1:9
 int_vect
 ```
 
+```{r}
+# Task 3: Creates an R object called `char_vect` that contains the letters "A" through "Q".
+char_vect <- LETTERS[1:17]
+char_vect
+```
+
