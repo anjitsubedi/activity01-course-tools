@@ -38,4 +38,9 @@ result_sum <- 2 + 5
 result_sum
 
 ```
+```{r}
+# Task 2: Creates an R object called `int_vect` that contains the values 1 through 9. 
+int_vect <- 1:9
+int_vect
+```
 
