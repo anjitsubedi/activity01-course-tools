@@ -33,8 +33,9 @@ I also encourage you to use comments (`#`) to help you identify each item (I pro
 
 ```{r simple-calculations}
 # Item 1
-2
-5
+# Task 1: Adds the values 2 and 5.
+result_sum <- 2 + 5
+result_sum
 
 ```
 
