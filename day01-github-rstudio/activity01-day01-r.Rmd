@@ -33,6 +33,8 @@ I also encourage you to use comments (`#`) to help you identify each item (I pro
 
 ```{r simple-calculations}
 # Item 1
+2
+5
 
 ```
 
