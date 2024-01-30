@@ -50,3 +50,9 @@ char_vect <- LETTERS[1:17]
 char_vect
 ```
 
+```{r}
+# Task 4: Using code, determine how many of the items in `char_vect` occur after the letter "D".
+count_after_D <- sum(char_vect > "D")
+count_after_D
+```
+
